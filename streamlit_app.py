@@ -1,3 +1,3 @@
-Import streamlit
+import streamlit
 
 streamlit.title('What a test')
